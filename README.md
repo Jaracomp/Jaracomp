@@ -1,6 +1,3 @@
-# 💫 About Me:
-Hello 👋 I'm a AI and Data Scientist developer<br>
-
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-Profile-blue?logo=telegram)](https://t.me/jaracomp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/jaracomp)
 
