@@ -8,13 +8,13 @@
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Jaracomp&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="350"><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaracomp&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="350">
+      <a href="https://roadmap.sh/u/jaracomp">
+        <img src="https://roadmap.sh/card/tall/67d9c0150bcc62b83db4200f" width="250">
+      </a>
     </td>
     <td valign="top">
-      <a href="https://roadmap.sh/u/jaracomp">
-        <img src="https://roadmap.sh/card/tall/67d9c0150bcc62b83db4200f?variant=dark" width="250">
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api?username=Jaracomp&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="350"><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaracomp&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="350">
     </td>
   </tr>
 </table>
